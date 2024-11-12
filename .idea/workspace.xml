@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="134b31ac-3919-4129-9286-d16cd67a80a1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gestion_tareas.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gestion_tareas.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logica/gestor_tareas.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/gestor_tareas.py" afterDir="false" />
-    </list>
+    <list default="true" id="134b31ac-3919-4129-9286-d16cd67a80a1" name="Changes" comment="Version final Gestión de tareas" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -120,7 +115,20 @@
       <option name="presentableId" value="Default" />
       <updated>1731368775149</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version final Gestión de tareas">
+      <option name="closed" value="true" />
+      <created>1731371033370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731371033370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version final Gestión de tareas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version final Gestión de tareas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
